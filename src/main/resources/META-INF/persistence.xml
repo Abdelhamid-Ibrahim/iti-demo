@@ -7,9 +7,9 @@
   <persistence-unit name="module06-persistence-unit" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <mapping-file>META-INF/listeners.xml</mapping-file>
-    <class>com.pluralsight.persistence.module06.Artist</class>
-    <class>com.pluralsight.persistence.module06.Author</class>
-    <class>com.pluralsight.persistence.module06.Musician</class>
+    <class>com.demo.Artist</class>
+    <class>com.demo.Author</class>
+    <class>com.demo.Musician</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
       <!--<property name="javax.persistence.schema-generation.database.action" value="create"/>

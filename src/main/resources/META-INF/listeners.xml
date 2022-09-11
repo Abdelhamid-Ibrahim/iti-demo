@@ -7,7 +7,7 @@
   <persistence-unit-metadata>
     <persistence-unit-defaults>
       <entity-listeners>
-        <entity-listener class="com.pluralsight.persistence.module06.demo02.LifecycleListener"/>
+        <entity-listener class="com.demo.demo02.LifecycleListener"/>
       </entity-listeners>
     </persistence-unit-defaults>
   </persistence-unit-metadata>
