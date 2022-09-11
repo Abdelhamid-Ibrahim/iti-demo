@@ -3,7 +3,7 @@
 In this module the author will cover the entity lifecycle and explain how callback annotations and listeners can be used to add business logic to the a domain model.
 
 ## Code 
---------------------
+
 
 The code of this module follows the [Maven](http://maven.apache.org/) directory structure. The `src/main/` directory contains the main source code while you will find the test class under `src/test/`. The `pom.xml` and `assembly.xml` files are Maven specific describes the project and its dependencies.
 
