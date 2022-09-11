@@ -15,7 +15,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// migration of users using patching
+		// migration of users using patching processing
 		System.out.println("\n\n>>> Executing : " + Main.class.toString() + " <<<\n");
 
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("module06-persistence-unit");
